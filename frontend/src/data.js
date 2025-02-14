@@ -99,13 +99,6 @@ export const projects = [
         cat: "Book Design",
         username: "Hannah Dougherty",
     },
-    {
-        id: 8,
-        img: "https://images.pexels.com/photos/4065876/pexels-photo-4065876.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        pp: "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        cat: "Digital Marketing",
-        username: "Ward Brewer",
-    },
 ];
 
 export const gigs = [
@@ -171,14 +164,5 @@ export const gigs = [
         price: 89,
         star: 5,
         username: "Waverly Schaefer",
-    },
-    {
-        id: 8,
-        img: "https://images.pexels.com/photos/5490778/pexels-photo-5490778.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        pp: "https://images.pexels.com/photos/1699159/pexels-photo-1699159.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        desc: "I will create custom art using midjourney generator",
-        price: 110,
-        star: 4,
-        username: "Wilton Hunt",
     },
 ];
